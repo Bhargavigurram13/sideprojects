@@ -1,4 +1,4 @@
-# ![Manage Claim - Web Application](https://github.com/Bhargavigurram13/sideprojects/blob/master/ManageClaims-Home%20Page.png)
+# ![Manage Claim - Web Application](https://github.com/Bhargavigurram13/sideprojects/blob/master/images/claim.jpg)
 # Manage Claim - Web Application
 >Manage Claims is a web application where customers(users) can login to their accounts and manage their auto insurance claims.
 >The User can submit a new claim and/or he can view all his claims history.
